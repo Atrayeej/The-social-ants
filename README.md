@@ -1,2 +1,2 @@
 # The-social-ants
-![Homepage Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home%20page.png?raw=true) 
+![Homepage Screenshot](https://github.com/Atrayeej/The-social-ants/blob/main/soci.png?raw=true) 
